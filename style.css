@@ -22,3 +22,6 @@ img{
     grid-template-columns:1fr;
   }
 }
+img:hover{
+  opacity:0.8;
+}
